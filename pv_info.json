@@ -1,0 +1,21 @@
+{
+   "pvname":{
+       "BC1 Ipk set":     "FBCK:FB04:LG01:S3DES"
+       "L1S amplitude":   "ACCL:LI21:1:L1S_S_AV"
+       "L1S phase":       "ACCL:LI21:1:L1S_S_PV"
+       "L1X amplitude":   "ACCL:LI21:180:L1X_S_AV"
+       "L1X phase":       "ACCL:LI21:180:L1X_S_PV"
+       "BC2 peak current set":     "FBCK:FB04:LG01:S5DES"
+       "L2 amplitude":    "ACCL:LI22:1:ADES"
+       "L2 phase":        "ACCL:LI22:1:PDES"
+       "L2 chirp":        "FBCK:FB04:LG01:CHIRPDES"
+       "L3 amplitude":    "ACCL:LI25:1:ADES"
+       "L3 phase":        "ACCL:LI25:1:PDES"
+       "L3 LEM energy":   "REFS:DMP1:400:EDES"
+       "i2pm sum":        "XPP:SB2:BMMON:SUM"    
+       "mono in use":     "XPP:MON:MMS:09"       
+       "L3 energy":       "BLD:SYS0:500:ENERGY" 
+           }
+}
+
+ 
